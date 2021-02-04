@@ -12,4 +12,16 @@
    2.- Marco Teórico.
    
    3.- Diagramas
+    
+     * Circuito General.
+     
+     ![image](https://user-images.githubusercontent.com/76132461/106948785-25fb1080-66fa-11eb-91ef-c7492b2b51da.png)
+     
+     * Circuito conectado el amperímetro.
+     
+     ![image](https://user-images.githubusercontent.com/76132461/106948804-2dbab500-66fa-11eb-833c-e9af6cff8fa4.png)
+     
+     * Circuito conectado el voltímetro.
    
+     ![image](https://user-images.githubusercontent.com/76132461/106948824-357a5980-66fa-11eb-8cf0-2a1dc3365329.png)
+     
