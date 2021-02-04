@@ -25,3 +25,6 @@
    
      ![image](https://user-images.githubusercontent.com/76132461/106948824-357a5980-66fa-11eb-8cf0-2a1dc3365329.png)
      
+    4.- Lista de componentes
+    
+    
