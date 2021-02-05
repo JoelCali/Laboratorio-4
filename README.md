@@ -59,7 +59,7 @@
    
    5.1.4.-Tabla de Parámetros Eléctricos del circuito de la figura
    
-   ![image](https://user-images.githubusercontent.com/76134214/106977539-8b65f600-6728-11eb-9418-fc3bbd08b65d.png)
+   ![image](https://user-images.githubusercontent.com/76132461/107052043-30b9b200-679b-11eb-90f6-fcdaa42a9027.png)
    
    6.- Preguntas
    
