@@ -64,13 +64,24 @@
    6.- Preguntas
     6.1.- ¿Se cumple el Teorema de la Máxima Transferencia de Potencia? Argumente su respuesta.
     
+    Si se cumple el Teorema de la Máxima Transferencia de Potencia, ya que este valor aumentaba segun se acercaba a la resistencia de 1200 Ohms.
+    
     6.2.- ¿Cuál fue la potencia máxima en RL?
     
     La potencia máxima en RL fue de 46.5 Watts, teniendo una resistencia de 1000 ohms
     
     6.3.- ¿Para qué valor de RL se obtiene la MTP?
     
+    El valor que se obtiene la MTP es de 1000 Ohms.
+    
     7.- Conclusiones
+    
+    * La potencia en la resistencia variable, depende de los valores del circuito equivalente al de Thevenin.
+    
+    * Para la práctica se identificó un circuito mixto el cual contiene una resistencia denominada “RL”, la cual irá variando entre 10 valores de diferentes cargas         resistivas.
+    
+    * En conclusión para el cálculo de la potencia dentro de nuestro circuito, se utilizan dos valores medidos, los cuales son voltaje y corriente. Además de añadir         la resistencia con carga cambiante para el cálculo de los vatios dentro del circuito
+     
     
     8.- Bibliografía
     Floyd, T.L. (2007). Principios de circuitos eléctricos (Octava ed.)
