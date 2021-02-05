@@ -69,7 +69,7 @@
     
     6.2.- ¿Cuál fue la potencia máxima en RL?
     
-    La potencia máxima en RL fue de 46.5 Watts, teniendo una resistencia de 1000 ohms
+    La potencia máxima en RL fue de 46.5 mW, teniendo una resistencia de 1000 ohms
     
     6.3.- ¿Para qué valor de RL se obtiene la MTP?
     
