@@ -11,6 +11,10 @@
    
    2.- Marco Teórico.
    
+     ![image](https://user-images.githubusercontent.com/76134214/106985701-eb17cd80-6737-11eb-9587-38fcee1bc8c8.png)
+     ![image](https://user-images.githubusercontent.com/76134214/106985717-eeab5480-6737-11eb-81bb-77a6ca589cc8.png)
+
+   
    3.- Diagramas
     
      * Circuito General.
