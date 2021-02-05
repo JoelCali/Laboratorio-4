@@ -55,7 +55,7 @@
    
    5.1.4.-Tabla de Parámetros Eléctricos del circuito de la figura
    
-   AKI INSERTAR LA TABLAAAAAAA
+   ![image](https://user-images.githubusercontent.com/76134214/106977539-8b65f600-6728-11eb-9418-fc3bbd08b65d.png)
    
    6.- Preguntas
     6.1.- ¿Se cumple el Teorema de la Máxima Transferencia de Potencia? Argumente su respuesta.
